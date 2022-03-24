@@ -1,2 +1,2 @@
-# React-Import-Export-Pracrice
+# React-Import-Export-Practice
 Created with CodeSandbox
